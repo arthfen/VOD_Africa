@@ -1,0 +1,11 @@
+Package: disag.vAfrica
+Type: Package
+Title: Disaggregation module developed for African VOD
+Version: 1.0
+Date: 2025-07-15
+Author: Arthur Fendrich
+Maintainer: Arthur Fendrich <arthfen@gmail.com>
+Description: Please see the corresponding publication.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.10), RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
